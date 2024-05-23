@@ -1,0 +1,67 @@
+*{
+	border: 0;
+	padding: 0;
+	margin: 0;
+}
+#header{
+background-color: red;
+z-index: 1;
+}
+#h1-header{
+	color: #fff;
+	font-size: arial;
+	padding-left: 8px;
+	padding-top: 4px;
+	padding-bottom: 8px;
+}
+.h3-header{
+	color: #fff;
+	font-size: arial;
+	padding-left: 8px;
+	padding-top: 5px;
+	padding-bottom: 2px;
+}
+.link-cabeçalho{
+	text-decoration: none;
+	color: orange;
+	word-spacing: 25px;
+	font-size: 17spx;
+	font-family: arial;
+}
+#navegação{
+	text-align: right;
+	padding-right: 7px;
+}
+.section-1{
+	color: #fff;
+	background-color: red;
+	margin: 0 auto;
+	text-align: center;
+	width: 90%;
+	height: 160px;
+	border-radius: 75px;
+	
+}
+.section-1{
+	font-family: arial;
+	font-size: 20px;
+	padding-top: 45px;
+}
+#produto {
+	display: flex;
+	justify-content: center;
+}
+#produto .sabores{
+	margin: 10px;
+	border: 2px solid red;
+	border-radius: 10px;
+	text-align: center;
+	background-color: red;
+	font-size: 20px;
+	color: #fff;
+}
+#produto .sabores img{
+	width: 170px;
+	border-radius: 10px;
+	
+}
